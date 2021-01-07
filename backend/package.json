@@ -18,12 +18,17 @@
   },
   "homepage": "https://github.com/seows2/Reactgram#readme",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "@babel/preset-env": "^7.12.11",
+    "dotenv": "^8.2.0",
+    "graphql-tools": "^7.0.2",
+    "graphql-yoga": "^1.18.3",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
     "@babel/node": "^7.12.10",
+    "@prisma/cli": "^2.14.0",
     "nodemon": "^2.0.7"
   }
 }
